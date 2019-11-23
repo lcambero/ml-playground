@@ -1,5 +1,5 @@
 # Machine Learning playground
-Repository with small machine learning code snippets programmed in Python with Jupyter notebooks. You can see the necessary packages in the [requirements](requirements.txt) file.
+Repository with machine learning code snippets programmed in Python with Jupyter notebooks. You can see the necessary packages in the [requirements](requirements.txt) file.
 
  
  ## Author
